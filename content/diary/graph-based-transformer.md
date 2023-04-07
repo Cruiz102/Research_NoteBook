@@ -1,6 +1,6 @@
 ---
 title: Exploring Embedded latent spaces with Graph based Transformer.
-linktitle: "April 3, 2023: My introduction on Graph based Transformer"
+linktitle: "1- April 3, 2023: My introduction on Graph based Transformer"
 date: 2023-04-03
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
