@@ -1,7 +1,7 @@
 ---
 title: Exploring different methods for testing the models.
 linktitle: "2- April 5, 2023: Exploring more datasets and metrics"
-date: 2023-04-03
+date: 2023-04-05
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
